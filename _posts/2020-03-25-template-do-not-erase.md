@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: template to clone
+post_title: title here
 author: jonathans
 post_excerpt: ""
 layout: post
@@ -16,10 +16,10 @@ post_date: 2020-03-25 12:02:37
 </div></div></div><div id="pgc-50-0-1" class="panel-grid-cell" data-weight="0.35"><div id="panel-50-0-1-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="1" data-style="{&quot;padding&quot;:&quot;15px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#555555&quot;}"><div class="panel-widget-style panel-widget-style-for-50-0-1-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align:center">Authors</h3>
-<p style="text-align: center">Hedda Ørbæk,
-Frida Klubb,
-Sigurd Korsnes
-and Zaw Myo Win</p></div>
+<p style="text-align: center">XXX,
+XXX,
+XXX
+and XXX</p></div>
 </div></div></div><div id="panel-50-0-1-1" class="so-panel widget widget_sow-editor" data-index="2" data-style="{&quot;padding&quot;:&quot;15px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#555555&quot;}"><div class="panel-widget-style panel-widget-style-for-50-0-1-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Audio Presentation</h3>
