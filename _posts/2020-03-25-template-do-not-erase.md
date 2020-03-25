@@ -27,5 +27,6 @@ and Zaw Myo Win</p></div>
 </div></div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor panel-last-child" data-index="3" data-style="{&quot;padding&quot;:&quot;15px 10px 10px 10px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#555555&quot;}"><div class="panel-widget-style panel-widget-style-for-50-0-1-2"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Poster &amp; Paper</h3>
-<a href="https://bioceed.uib.no/dropfolder/SDG214/poster3.pdf"><img style="text-align: center" src="https://bioceed.uib.no/dropfolder/SDG214/QR/poster3.jpg" width="90%" height="90%" /></a></div>
+<a href="https://bioceed.uib.no/dropfolder/SDG214/poster3.pdf"><img class="aligncenter" src="https://bioceed.uib.no/dropfolder/SDG214/QR/poster3.jpg" width="90%" height="90%" /></a>
+<p style="text-align: center">Scan or click on the QR code</p></div>
 </div></div></div></div></div></div>
