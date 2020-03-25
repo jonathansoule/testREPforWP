@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: title here
+post_title: template to clone
 author: jonathans
 post_excerpt: ""
 layout: post
