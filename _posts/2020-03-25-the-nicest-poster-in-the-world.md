@@ -21,13 +21,13 @@ Sigurd Korsnes
 and Zaw Myo Win</p></div>
 </div></div><div id="panel-50-0-1-1" class="so-panel widget widget_sow-editor" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	
-</div>
+	<h3 style="text-align: center">Audio Presentation</h3>
+
+[iframe src="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3" width="100%" height="500"] </div>
 </div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Audio Presentation</h3>
-<p><a href="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3"><img src="https://cdn.pixabay.com/photo/2017/11/10/05/34/play-2935460_960_720.png" width="100%" height="100%" /></a></p>
-</div>
+<a href="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3"><img src="https://cdn.pixabay.com/photo/2017/11/10/05/34/play-2935460_960_720.png" width="100%" height="100%" /></a></div>
 </div></div><div id="panel-50-0-1-3" class="so-panel widget widget_sow-editor panel-last-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Poster &amp; Paper</h3>
