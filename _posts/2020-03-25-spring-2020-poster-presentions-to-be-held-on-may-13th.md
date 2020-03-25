@@ -1,6 +1,6 @@
 ---
 ID: 98
-post_title: 'Spring 2020 &#8211; Poster Presentions to be held on May 13th'
+post_title: 'Spring 2020 &#8211; Poster Presentions to be held on May 13th at Realfagbygget'
 author: jonathans
 post_excerpt: ""
 layout: post
