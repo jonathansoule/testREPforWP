@@ -23,7 +23,7 @@ and Zaw Myo Win</p></div>
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Audio Presentation</h3>
 [embed style="background: #FFFFFF;" src="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3" width="245" height="190" controls]</div>
-</div></div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#555555&quot;,&quot;margin&quot;:&quot;15px 0px 0px 0px&quot;}"><div class="panel-widget-style panel-widget-style-for-50-0-1-2"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+</div></div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor panel-last-child" data-index="3" data-style="{&quot;padding&quot;:&quot;15px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#555555&quot;}"><div class="panel-widget-style panel-widget-style-for-50-0-1-2"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Poster &amp; Paper</h3>
 <a href="https://sdgcourses.w.uib.no/files/2019/05/Group-3.pdf"><img src="https://cdn.pixabay.com/photo/2017/03/19/03/45/material-icon-2155438_1280.png" width="100%" height="100%" /></a></div>
