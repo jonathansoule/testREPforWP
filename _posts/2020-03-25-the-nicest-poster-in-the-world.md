@@ -21,10 +21,7 @@ Sigurd Korsnes
 and Zaw Myo Win</p></div>
 </div></div><div id="panel-50-0-1-1" class="so-panel widget widget_sow-editor" data-index="2" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<audio controls>
-  
-Your browser does not support the audio element.
-</audio>
+	
 </div>
 </div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
