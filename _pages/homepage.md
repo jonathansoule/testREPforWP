@@ -20,7 +20,7 @@ post_date: 2020-03-25 18:47:22
 </div></div></div><div id="pgc-102-2-1" class="panel-grid-cell" data-weight="0.33333333333333"><div id="panel-102-2-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">BIO250 - Palaeoecology</h3>
 <div class="siteorigin-widget-tinymce textwidget">
 	</div>
-</div></div></div><div id="pgc-102-2-2" class="panel-grid-cell" data-weight="0.33333333333333"><div id="panel-102-2-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="7" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">SDG214 - Research Practice in Biology</h3>
+</div></div></div><div id="pgc-102-2-2" class="panel-grid-cell" data-weight="0.33333333333333"><div id="panel-102-2-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="7" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">BIO299 - Research Practice in Biology</h3>
 <div class="siteorigin-widget-tinymce textwidget">
 	</div>
 </div></div></div></div></div>
