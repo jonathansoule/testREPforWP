@@ -1,6 +1,8 @@
 ---
 ID: 102
-post_title: Homepage
+post_title: >
+  Student Posters from BIO and SDG courses
+  at UiB
 author: jonathans
 post_excerpt: ""
 layout: page
