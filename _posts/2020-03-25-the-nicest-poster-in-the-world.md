@@ -23,7 +23,7 @@ and Zaw Myo Win</p></div>
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Audio Presentation</h3>
 
-[embed src="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3" width="245" height="190" controls] </div>
+[embed style="background-color:grey;" src="https://bioceed.uib.no/dropfolder/bioPOSTERS/07.mp3" width="245" height="190" controls] </div>
 </div></div><div id="panel-50-0-1-2" class="so-panel widget widget_sow-editor panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h3 style="text-align: center">Poster &amp; Paper</h3>
