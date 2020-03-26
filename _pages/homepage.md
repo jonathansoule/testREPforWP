@@ -16,14 +16,18 @@ post_date: 2020-03-25 18:47:22
 <h3 style="text-align: center">Life Under Water</h3></div>
 </div></div><div id="panel-102-3-0-1" class="so-panel widget widget_sow-slider panel-last-child" data-index="3" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Slider_Widget"][/siteorigin_widget]</div></div><div id="pgc-102-3-1" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-1-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="4" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	<h3 style="text-align: center">SDG215 - Life On Land</h3></div>
-</div></div><div id="panel-102-3-1-1" class="so-panel widget widget_sow-slider panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Slider_Widget"][/siteorigin_widget]</div></div><div id="pgc-102-3-2" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">BIO241 - Behavioural Ecology</h3>
+	<h3 style="text-align: center">SDG215</h3>
+<h3 style="text-align: center">Life On Land</h3></div>
+</div></div><div id="panel-102-3-1-1" class="so-panel widget widget_sow-slider panel-last-child" data-index="5" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}">[siteorigin_widget class="SiteOrigin_Widget_Slider_Widget"][/siteorigin_widget]</div></div><div id="pgc-102-3-2" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-2-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	</div>
-</div></div></div><div id="pgc-102-3-3" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-3-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="7" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">BIO250 - Palaeoecology</h3>
+	<h3 style="text-align: center">BIO241</h3>
+<h3 style="text-align: center">Behavioural Ecology</h3></div>
+</div></div></div><div id="pgc-102-3-3" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-3-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="7" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	</div>
-</div></div></div><div id="pgc-102-3-4" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-4-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h3 class="widget-title">BIO299 - Research Practice in Biology</h3>
+	<h3 style="text-align: center">BIO250</h3>
+<h3 style="text-align: center">Palaeoecology</h3></div>
+</div></div></div><div id="pgc-102-3-4" class="panel-grid-cell" data-weight="0.2"><div id="panel-102-3-4-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
-	</div>
+	<h3 style="text-align: center">BIO299</h3>
+<h3 style="text-align: center">Research Practice in Biology</h3></div>
 </div></div></div></div></div>
