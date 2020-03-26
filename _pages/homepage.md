@@ -26,7 +26,7 @@ post_date: 2020-03-25 18:47:22
 <div class="siteorigin-widget-tinymce textwidget">
 	<h4 style="text-align: center">BIO250</h4>
 <h4 style="text-align: center">Palaeoecology</h4></div>
-</div></div></div></div><div id="pgc-102-3-4" class="panel-grid-cell" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#0000aa&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}" data-weight="0.2"><div class="panel-cell-style panel-cell-style-for-102-3-4"><div id="panel-102-3-4-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+</div></div></div></div><div id="pgc-102-3-4" class="panel-grid-cell" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#aaaaaa&quot;,&quot;vertical_alignment&quot;:&quot;auto&quot;}" data-weight="0.2"><div class="panel-cell-style panel-cell-style-for-102-3-4"><div id="panel-102-3-4-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<h4 style="text-align: center">BIO299</h4>
 <h4 style="text-align: center">Research Practice in Biology</h4></div>
